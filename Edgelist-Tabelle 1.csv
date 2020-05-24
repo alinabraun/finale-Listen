@@ -1,7 +1,0 @@
-from;to;weight;duration;relationship
-Ego;Anna Braun;4;3;2
-Ego;Petra Braun;4;3;1
-Ego;Katharina Schmähl;4;3;8
-Ego;Tom Beyer;4;1;8
-Anna;Petra Braun;4;3;1
-Petra;Anna Braun;4;3;1
