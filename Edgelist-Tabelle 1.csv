@@ -1,7 +1,0 @@
-from;to;weight;duration;relationship
-Ego;Anna;4;3;2
-Ego;Petra;4;3;1
-Ego;Katharina;4;3;8
-Ego;Tom;4;1;8
-Anna;Petra;4;3;1
-Petra;Anna;4;3;1
